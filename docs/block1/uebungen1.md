@@ -12,7 +12,7 @@ austauschen.
 
 ### Übungs-Hilfsdateien
 
-Bitte verwenden Sie die Vorlagen im [Zipfile zu den Übungen](https://github.com/unibas-marcelluethi/gyminf-programmieren/raw/master/docs/block1/uebung1.zip).
+Bitte verwenden Sie die Vorlagen im [Zipfile zu den Übungen](https://github.com/andreas-forster/gyminf-programmieren/raw/master/docs/block1/uebung1.zip).
 
 
 ## Aufgabe 1 - Berechnung des BMI
@@ -69,7 +69,7 @@ Um das Programm aufzurufen, geben Sie als Kommandozeilenargument den Dateinamen 
 
 ![Turtle Squares](./images-uebung/turtle-squares.png)
 
-> :warning: Die relevanten "Turtle" Funktionen finden Sie in der [Jupyter-Einführung](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb)
+> :warning: Die relevanten "Turtle" Funktionen finden Sie in der [Jupyter-Einführung](https://nbviewer.jupyter.org/github/andreas-forster/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb)
 
 
 ## Automatisiertes Testen der Übungen (optional)
