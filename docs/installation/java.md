@@ -7,7 +7,7 @@ Wir empfehlen Ihnen jedoch, die Version 11 vom OpenJDK zu verwenden.
 
 ## Anleitung
 
-Im folgenden führen wir Sie durch die wichtigsten Schritte die Sie durchführen müssen um das JDK auf Ihrem Computer zu installieren. Wir illustrieren dies hier nur für Windows. Wenn Sie ein anderes Betriebssystem (wie MacOS oder Linux) verwenden, führen Sie die Schritte sinngemäss für Ihr Beriebssystem aus. Sollten Probleme auftauchen, finden Sie viele Informationen im Internet. Sie können sich auch an die Tutorinnen und Tutoren wenden. 
+Im folgenden führen wir Sie durch die wichtigsten Schritte die Sie durchführen müssen um das JDK auf Ihrem Computer zu installieren. Wir illustrieren dies hier nur für Windows. Wenn Sie ein anderes Betriebssystem (wie MacOS oder Linux) verwenden, führen Sie die Schritte sinngemäss für Ihr Beriebssystem aus. Sollten Probleme auftauchen, finden Sie viele Informationen im Internet. Sie können gerne auch Fragen im Forum stellen wo Ihnen erfahrenere Kursteilnehmer helfen können. 
 
 #### Download
 
