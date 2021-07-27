@@ -1,6 +1,9 @@
 # Block 1: Erste Programme
 
- 25\. Januar 2020
+ 09\. August 2021
+
+ > **HINWEIS**<br>
+ > DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
 
 ### Vorlesungsmaterialien
 
