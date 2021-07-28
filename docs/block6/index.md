@@ -1,13 +1,11 @@
-# Block 6: Fehlerbehandlung, IO und Threads
+# Block 6: ....
 
- 03\. April  2020
+ > **HINWEIS**<br>
+ > DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
 
 ### Vorlesungsmaterialien
 
-* Einführung ([pdf](Einfuehrung.pdf))
-* Exceptions ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Exceptions.ipynb)) 
-* IO und Threads ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/IOandThreads.ipynb)) 
-* Turtle Fallstudie ([pdf](Turtle.pdf)) 
+* Einige Grundlagen der Informatik ([pdf](Informatik-Grundlagen.pdf))
+
 
 ### Übungen
-* Empfohlene Liste von Übungen in Sprechen Sie Java folgt.

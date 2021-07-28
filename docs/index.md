@@ -5,19 +5,22 @@ Andreas Morel-Forster <br/>
 
 ## Programm (provisorisch)
 
-| Datum             | Thema  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Datum | Thema  | 
-| ---------- |--------| --- |-------|--------|
-| 09. August | [Einführung](block1/index.md) |      | 28. August        | ... |
-| 10. August | ... |      | 11. September     | ... |
-| 11. August | ... |      | 25. September     | ... |
-| 12. August | ... |      |       |     |
-| 13. August | ... |      |       |     |
-| 14. August | ... |      |       |     |
+| Datum      | Thema  |
+|----------- |--------|
+| 09. August | [Einführung](block1/index.md) |
+| 10. August | Einfache Programme |
+| 11. August | Schleifen |
+| 12. August | Methoden |
+| 13. August | Arrays und Strings |
+| 14. August | Vorbereitung Übungen |
+| 28. August | Klassen und Objektorientierung |
+| 11. September | Vererbung |
+| 25. September | Fehlerbehandlung |
 
 
 Die Vorlesungsmaterialien für die jeweilige Einheiten werden fortlaufend online gestellt. Sie finden diese wenn Sie auf den entsprechenden Link im Programm klicken.
 
-## Software für die praktischen Teile der Vorlesung
+## Software für die praktischen Teile des Kurses
 
 Wir verwenden verschieden Software für unterschiedliche praktische Elemente während der Vorlesung und in der Klausur. Sie finden [hier](./software.md) eine Liste der Software, welche Sie vor oder während dem Kurs installieren sollten.
 

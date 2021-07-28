@@ -2,12 +2,23 @@
 
 Visual Studio Code (VS Code oder auch einfach Code genannt) ist ein auf den ersten Blick einfacher aber durchaus sehr mächtiger Code Editor für alle gängigen Betriebssysteme und Programmiersprachen. Von Haus aus wird JavaScript (mit NodeJS) unterstützt, aber es gibt sogenannte Extensions für alle gängigen Programmiersprachen.
 
+
 ## Download
+
 Laden Sie bitte den entsprechenden Installer für Ihr System von der [VSCode Download Website](https://code.visualstudio.com/Download){:target="_blank"} und installieren Sie VSCode entsprechend der Installationsanleitung oder folgen Sie den Anweisung des Installers.
 
 ![VS Code Download Page](./images-vscode/code-download-page.png)
 
+
+## Vorbereiten das Entwickeln mit Java
+
+Bitte schauen Sie, dass Sie das JDK schon installiert haben befor Sie diesen Schritt ausführen.
+
+Das [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) ist eine Sammlung von nützlichen Tools um in VSCode Java zu programmieren. Diese Extension sollte sich ohne Probleme installieren lassen. Sollten wider Erwarten Probleme auftauchen, schauen Sie doch bitte ob Ihnen diese [Anleitung](https://code.visualstudio.com/docs/languages/java) weiter helfen kann.
+
+
 ## Die Sprache von VS Code ändern
+
 Visual Studio Code enthält von Haus aus nur Unterstützung für Englisch, um den Editor auf Deutsch nutzen zu können, befolgen Sie bitte folgende Schritte:
 
 1. Öffnen Sie bitte das "Extension Fenster" durch drücken von Ctrl-Shift-X oder durch drücken des entsprechenden Knopf, links in der Menübar.

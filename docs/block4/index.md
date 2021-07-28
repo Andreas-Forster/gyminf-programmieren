@@ -1,14 +1,10 @@
-# Block 4: Klassen und Objektorientierung
+# Block 4: ....
 
- 7\. März 2020
+> **HINWEIS**<br>
+> DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
 
 ### Vorlesungsmaterialien
 
-* Einführung ([pdf](einfuehrung-woche4.pdf))
-* Klassen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Klassen.ipynb))
-* Objektorientierung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Objektorientierung.ipynb))
-
+* Einige Grundlagen der Informatik ([pdf](Informatik-Grundlagen.pdf))
 
 ### Übungen
-[Hier](uebungen4.md) gehts zum Übungsblatt 4.
-

@@ -8,7 +8,7 @@ Das Programm ist ein traditionelles "Hello World" Programm und macht nichts ande
 Für diese und die folgenden Programmieraufgaben empfehlen wir jeweils das folgende Vorgehen um eine Programmierumgebung zu erstellen.
 
 1. Erstellen Sie einen neuen Ordner (z.B. Aufgabe1) für Ihre Übungen.
-2. Öffnen Sie den VSCode Editor und öffnen Sie den erstellen Ordner via Datei -> Ordner öffnen
+2. Öffnen Sie den VSCode Editor und öffnen Sie den erstellten Ordner via Datei -> Ordner öffnen
 3. Sie sehen nun im Explorer vom VSCode (Menü Anzeigen -> Explorer) ihren geöffneten Ordner
 4. Erstellen Sie eine neue Datei (Menü Datei -> Neue Datei (oder Ctrl-n)). Diese wird als 'untitled-...' Datei geöffnet. 
 5. Speichern Sie nun diese 'untitled' Datei (Menü Datei -> Speichern) mit dem Namen "HelloWorld.java" 
@@ -54,9 +54,9 @@ java HelloWorld
 Nun sollten Sie als Ausgabe von Ihrem Program "Hello World" sehen.
 
 ```
-matthias@matthias-tp:~/tmp/Aufgabe1$ java HelloWorld 
-Hello World
-matthias@matthias-tp:~/tmp/Aufgabe1$ _
+PS C:\Users\Andi\Desktop\gyminf\helloworld> java HelloWorld 
+Hello World!
+PS C:\Users\Andi\Desktop\gyminf\helloworld> _
 ```
 
 ## Ändern der Ausgabe

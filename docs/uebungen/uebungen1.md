@@ -69,7 +69,8 @@ Um das Programm aufzurufen, geben Sie als Kommandozeilenargument den Dateinamen 
 
 ![Turtle Squares](./images-uebung/turtle-squares.png)
 
-> :warning: Die relevanten "Turtle" Funktionen finden Sie in der [Jupyter-Einführung](https://nbviewer.jupyter.org/github/andreas-forster/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb)
+> HINWEIS<br>
+> Die relevanten "Turtle" Funktionen finden Sie in der [Jupyter-Einführung](https://nbviewer.jupyter.org/github/andreas-forster/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb)
 
 
 ## Automatisiertes Testen der Übungen (optional)

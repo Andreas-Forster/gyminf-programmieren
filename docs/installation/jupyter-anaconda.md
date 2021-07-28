@@ -10,13 +10,13 @@ Um Jupyter Notebooks zu installieren, haben Sie die Wahl zwischen einer "grossen
 Die grosse ist etwas einfacher zu installieren, benötigt jedoch ca. 3GB Platz auf Ihrem Computer und basiert auf Anaconda, die kleinere basiert auf Miniconda und kommt mit ca. 400MB Platz aus.
 In der Funktionalität unterscheiden sich die zwei Varianten nicht.
 
-Sie brauchen aber nicht zwingend eine eigene Installation von Jupyter-Notebooks. Sie können auch einfach mit [Google Colab](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/tree/master/notebooks/) arbeiten. Dies setzt jedoch ein Google-Konto voraus um sich anzumelden.
+Sie brauchen aber nicht zwingend eine eigene Installation von Jupyter-Notebooks. Sie können auch einfach mit [Google Colab (coming soon)](./installation/colab-notebooks) arbeiten. Dies setzt jedoch ein Google-Konto voraus um sich anzumelden.
 
 ## Lokale Installation
 
 Installieren Sie als erstes Jupyter Notebooks mit einer der zwei Optionen:
 
-1. Anaconda (3GB) - Folgen Sie dafür folgender [Anleitung](https://jupyter.readthedocs.io/en/latest/install.html).
+1. Anaconda (3GB) - Folgen Sie dafür folgender [Anleitung](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html).
 1. Miniconda (500MB):
     1. installieren Sie Miniconda mit folgender [Anleitung](https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation)
     1. Öffnen Sie die Anaconda-Konsole.

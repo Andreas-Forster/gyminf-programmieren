@@ -1,13 +1,17 @@
-# Block 5: Vererbung / Grafische Benutzeroberflächen
+# Block 3: Zusammengesetzte Datentypen
 
- 21\. März 2020
+
+> **HINWEIS**<br>
+> DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
+
 
 ### Vorlesungsmaterialien
 
-* Einführung ([pdf](einfuehrung.pdf))
-* Vererbung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb))  [(github)](https://github.com/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb)
-* AWT/Swing ([pdf](awt-swing.pdf))
+* Einführung ([pdf](einfuehrung-woche3.pdf))
+* Arrays ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Arrays.ipynb))
+* Zeichenketten ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Strings.ipynb))
+* Turtle - Sprache ([pdf](turtle-language.pdf))
 
 ### Übungen
-[Hier](uebungen5.md) gehts zum Übungsblatt 5.
+[Hier](uebungen3.md) gehts zum Übungsblatt 3.
 
