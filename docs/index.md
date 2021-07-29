@@ -31,3 +31,7 @@ Zum gegenseitigen Austausch und zur Übungsdiskussion können wir das Forum des 
 ## Übungen und Lernfortschritt
 
 Für die Prüfungsvorbereitung empfehlen wir Ihnen zu programmieren, nochmals zu programmieren und noch mehr zu programmieren. Alles zu den Übungen und wie Sie Ihren Lernfortschritt testen können, finden Sie [hier](./uebungen.md).
+
+## Notebook Übersicht
+
+Eine Übersicht über die Jupyter Notebooks finden Sie [hier](./notebooks.md).

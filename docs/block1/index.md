@@ -1,4 +1,4 @@
-# Block 1: Erste Programme
+# Block 1: Hello World
 
 > :warning: **HINWEIS**<br>
 > DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
@@ -7,8 +7,8 @@
 
 * Einige Grundlagen der Informatik ([pdf](Informatik-Grundlagen.pdf))
 * Ein erstes Java-Programm ([pdf](Erstes-Programm.pdf))
+* Übungsblock 1  (weiter unten auf dieser Seite)
 * Jupyter Notebooks ([pdf](Jupyter-Notebooks.pdf), [Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb))
-* Einfache Programme ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/EinfacheProgramme.ipynb))
 
 ### Forum
 
