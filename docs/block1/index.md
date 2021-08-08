@@ -1,14 +1,12 @@
-# Block 1: Hello World
-
-> :warning: **HINWEIS**<br>
-> DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
+# Block 1: Einführung
 
 ### Vorlesungsmaterialien
 
-* Einige Grundlagen der Informatik ([pdf](Informatik-Grundlagen.pdf))
-* Ein erstes Java-Programm ([pdf](Erstes-Programm.pdf))
+* Einige Grundlagen der Informatik ([pdf](02_InformatikGrundlagen.pdf))
+* Ein erstes Java-Programm ([pdf](03_ErstesProgramm.pdf))
 * Übungsblock 1  (weiter unten auf dieser Seite)
-* Jupyter Notebooks ([pdf](Jupyter-Notebooks.pdf), [Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb))
+* Jupyter Notebooks ([pdf](04_JupyterNotebooks.pdf))
+* Übungsblock 2 (weiter unten auf dieser Seite))
 
 ### Forum
 
@@ -29,3 +27,13 @@ Unser Forum um sich über die Vorlesung und die Übungen auszutauschen ist im [G
 3. Java: "Hello World" kompilieren und laufen lassen.
 
 [Dieses Tutorial](helloworld.md) hilft Ihnen Ihr erstes "Hello World" in Java auszuführen.
+
+#### Übungsblock 2: Kennenlernen von Jupyter Notebooks
+
+1. Entscheiden Sie sich für die [lokale Installation](../installation/jupyter-anaconda.md) oder das verwenden von [Google Colab](jupyter-colab).
+
+1. Arbeiten Sie das Notebook [Jupyter Einführung](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb) durch um die Umgebung kennen zu lernen.
+
+* Verschaffen Sie sich mit Hilfe des Notebooks *Turtle-Referenz* einen Überblick über die Verwendung von Turtle.
+
+

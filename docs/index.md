@@ -12,7 +12,7 @@ Andreas Morel-Forster <br/>
 | 11. August | Schleifen |
 | 12. August | Methoden |
 | 13. August | Arrays und Strings |
-| 14. August | Vorbereitung Übungen |
+| 14. August | Fallstudie und Übungen |
 | 28. August | Klassen und Objektorientierung |
 | 11. September | Vererbung |
 | 25. September | Fehlerbehandlung |

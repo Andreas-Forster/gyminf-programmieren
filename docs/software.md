@@ -17,4 +17,4 @@ Um grössere Java-Programme zu schreiben empfehlen wir Ihnen einen geeigneten Ed
 Wir verwenden Jupyter Notebooks, eine Mischung aus Textdokumentation und ausführbarem Programmcode in der Vorlesung um einfache Programmstücke auszuführen. Wir empfehlen Ihnen die Jupyter Umgebung lokal bei Ihnen auf dem Computer zu installieren. Sie können die Notebooks jedoch auch auf Google Colab mit Hilfe eines Google Accounts verwenden.
 
 * [Installationsanleitung](./installation/jupyter-anaconda) für lokale Installation.
-* [Anleitung (coming soon)](./installation/colab-notebooks) für die Verwendung von Google Colab.
+* [Anleitung](./installation/jupyter-colab) für die Verwendung von Google Colab.

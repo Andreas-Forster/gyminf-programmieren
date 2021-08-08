@@ -10,7 +10,7 @@ Um Jupyter Notebooks zu installieren, haben Sie die Wahl zwischen einer "grossen
 Die grosse ist etwas einfacher zu installieren, benötigt jedoch ca. 3GB Platz auf Ihrem Computer und basiert auf Anaconda, die kleinere basiert auf Miniconda und kommt mit ca. 400MB Platz aus.
 In der Funktionalität unterscheiden sich die zwei Varianten nicht.
 
-Sie brauchen aber nicht zwingend eine eigene Installation von Jupyter-Notebooks. Sie können auch einfach mit [Google Colab (coming soon)](./installation/colab-notebooks) arbeiten. Dies setzt jedoch ein Google-Konto voraus um sich anzumelden.
+Sie brauchen aber nicht zwingend eine eigene Installation von Jupyter-Notebooks. Sie können auch einfach mit [Google Colab](./jupyter-colab.md) arbeiten. Dies setzt jedoch ein Google-Konto voraus um sich anzumelden.
 
 ## Lokale Installation
 
@@ -33,16 +33,21 @@ Wenn Sie Jupyter-Notebooks starten, sollten Sie beim Erstellen eines neuen Noteb
 ## Kopieren der Notebooks und Bilder
 
 Nach dem Starten von Jupyter-Notebooks können Sie die Notebooks die wir für die Vorlesung vorbereitet haben in Ihre Jupyter-Umgebung kopieren. 
-Laden Sie dafür die entsprechenden Notebooks von [hier](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/tree/master/notebooks/) herunter und uploaden Sie 
-diese in Ihre Juyter Umgebung indem Sie den Upload Button drücken (Siehe Bild).
-![jupyter-upload](images/jupyter-upload.png)
+Öffnen Sie dafür die entsprechenden Notebooks von [hier](../notebooks.md) und laden diese im Anschluss herunter. Dann uploaden Sie 
+das Notebook in Ihre Jupyter Umgebung indem Sie den Upload Button drücken.
 
-Einige der Notebooks enthalten Bilder. Sie können diese [hier](https://drive.switch.ch/index.php/s/er6wJVVqT5U6yYf/download) als Zip-File herunterladen. Laden Sie das gesamte Zip File 
+Download
+![jupyter-download](images-jupyter/notebook-download.png)
+
+Upload
+![jupyter-upload](images-jupyter/upload.png)
+
+Einige der Notebooks enthalten Bilder. Sie können diese [hier](https://drive.switch.ch/index.php/s/Qc6uwoe9GrySYxq/download) als Zip-File herunterladen. Laden Sie das gesamte Zip File 
 in Ihre Notebook Umgebung. Um das Zip-File zu entpacken öffnen Sie in der Jupyter-Umgebung ein Terminal (siehe Bild unten) und führen dann den Befehl
 ```
 unzip -n images.zip
 ``` 
 aus. 
 
-![jupyter-terminal](images/jupyter-terminal.png)
+![jupyter-terminal](images-jupyter/jupyter-terminal.png)
 
