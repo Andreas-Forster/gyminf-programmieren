@@ -30,7 +30,7 @@ Unser Forum um sich über die Vorlesung und die Übungen auszutauschen ist im [G
 
 #### Übungsblock 2: Kennenlernen von Jupyter Notebooks
 
-1. Entscheiden Sie sich für die [lokale Installation](../installation/jupyter-anaconda.md) oder das verwenden von [Google Colab](jupyter-colab).
+1. Entscheiden Sie sich für die [lokale Installation](../installation/jupyter-anaconda.md) oder das verwenden von [Google Colab](../installation/jupyter-colab.md).
 
 1. Arbeiten Sie das Notebook [Jupyter Einführung](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb) durch um die Umgebung kennen zu lernen.
 
