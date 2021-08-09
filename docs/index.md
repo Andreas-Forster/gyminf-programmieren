@@ -8,7 +8,7 @@ Andreas Morel-Forster <br/>
 | Datum      | Thema  |
 |----------- |--------|
 | 09. August | [Einführung](block1/index.md) |
-| 10. August | Einfache Programme |
+| 10. August | [Einfache Programme](block2/index.md) |
 | 11. August | Schleifen |
 | 12. August | Methoden |
 | 13. August | Arrays und Strings |

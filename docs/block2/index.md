@@ -1,13 +1,11 @@
-# Block 2: ....
-
-> **HINWEIS** :warning:<br>
-> DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
+# Block 2: Einfache Programme
 
 ### Vorlesungsmaterialien
 
-* Jupyter Notebooks ([pdf](Jupyter-Notebooks.pdf), [Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb))
-* Gleitkommazahlen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Gleitkommazahlen.ipynb))
-* Verzweigungen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Verzweigungen.ipynb))
+* Fortsetzung: Übungsblock 2 (siehe [Einführung](../block1/index.md))
+* Einfache Programme ([Juypter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/EinfacheProgramme.ipynb))
+* Gleitkommazahlen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Gleitkommazahlen.ipynb))
+* Verzweigungen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Verzweigungen.ipynb))
 
 ### Forum
 
@@ -15,6 +13,4 @@ Unser Forum um sich über die Vorlesung und die Übungen auszutauschen ist im [G
 
 ### Übungen
 
-#### Übungsblock 1: Erste Programmierübungen
-
-Bitte lösen Sie das [Übungsblatt 1](uebungen1.md).
+Alle Übungen zum heutigen Programm befinden sich in den oben gelisteten Jupyter-Notebooks.
