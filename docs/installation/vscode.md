@@ -34,3 +34,9 @@ Visual Studio Code enthält von Haus aus nur Unterstützung für Englisch, um de
 ![Sprache Installieren Screenshot](./images-vscode/change-language-notification.png)
 
 5. Dannach werden Sie aufgefordert, den Editor neu zu starten. Dieser sollte nach dem Neustart in Ihrer gewünschten Sprache erscheinen.
+
+## Nützliche Tricks
+
+1. Ctrl+Shift+P öffnet eine Eingabefeld um verschiedene Sachen zu suchen.
+1. Wenn Sie Probleme mit Java haben, dann suchen Sie nach `Java: Configure Java Runtime` um ein Dialogfenster zu öffnen mit mehr Informationen zu Ihrer Java Installation.
+1. Sie können über das Menu `Terminal` eine Konsole öffnen im Ordner den Sie mit VS Code bearbeiten. Dort sollten die Befehle `javac` und `java` auch funktionieren.

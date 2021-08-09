@@ -19,13 +19,18 @@ Installieren Sie als erstes Jupyter Notebooks mit einer der zwei Optionen:
 1. Anaconda (3GB) - Folgen Sie dafür folgender [Anleitung](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html).
 1. Miniconda (500MB):
     1. installieren Sie Miniconda mit folgender [Anleitung](https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation)
-    1. Öffnen Sie die Anaconda-Konsole.
+    1. Öffnen Sie die Anaconda-Konsole (unter Linux und OS X ein normales Terminal).
     1. Führen Sie den Befehl `conda install jupyter` aus.
 
-Nach der erfolgreichen Jupyter Notebook Installation müssen Sie noch den IJava Kern installieren und optional für die Darstellung der Notebooks als Slides die Rise Extension:
+Nach der erfolgreichen Jupyter Notebook Installation müssen Sie noch den IJava Kern installieren.
 
-1. Die benötigten Schritte sind [hier](https://github.com/SpencerPark/IJava#installing) beschrieben.
-1. Falls Sie die Notebooks als Präsentationen darstellen können möchten, benötigen Sie zusätzlich die RISE extension. 
+1. Laden Sie dazu dieses [Zip-File](https://github.com/SpencerPark/IJava/releases/download/v1.3.0/ijava-1.3.0.zip) herunter.
+1. Entpacken Sie das Zip-File.
+1. Öffnen Sie eine Anaconda-Konsole (unter Linux und OS X ein normales Terminal).
+1. Wechseln Sie mit Hilfe von `cd` (change directory) in das entpackte Verzeichnis.
+1. Führen sie den Befehl `python install.py` aus. 
+
+Falls Sie die Notebooks als Präsentationen darstellen können möchten, benötigen Sie zusätzlich die RISE extension. 
 Installieren Sie diese gemäss [dieser Anleitung](https://rise.readthedocs.io/en/maint-5.6/installation.html).
 
 Wenn Sie Jupyter-Notebooks starten, sollten Sie beim Erstellen eines neuen Notebooks nun den Java-Kernel auswählen können. 
