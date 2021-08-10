@@ -6,7 +6,7 @@
 | 02 | [Einfache Programme](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/EinfacheProgramme.ipynb) |
 | 03 | [Gleitkommazahlen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Gleitkommazahlen.ipynb) |
 | 04 | [Verzweigungen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Verzweigungen.ipynb) |
-| 05 | ... |
+| 05 | [Schleifen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Schleifen.ipynb) |
 | 06 | ... |
 | 07 | ... |
 | 08 | ... |
