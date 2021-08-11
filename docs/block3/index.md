@@ -2,7 +2,7 @@
 
 ### Vorlesungsmaterialien
 
-* Einführung und Repetition ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/RueckblickTag3.ipynb))
+* Rückblick ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/RueckblickTag3.ipynb))
 * Fortsetzung: Verzweigungen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Verzweigungen.ipynb))
 * Schleifen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Schleifen.ipynb))
 
