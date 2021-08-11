@@ -7,8 +7,8 @@
 | 03 | [Gleitkommazahlen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Gleitkommazahlen.ipynb) |
 | 04 | [Verzweigungen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Verzweigungen.ipynb) |
 | 05 | [Schleifen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Schleifen.ipynb) |
-| 06 | ... |
-| 07 | ... |
+| 06 | [Methoden](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Methoden.ipynb) |
+| 07 | [Klassen - Teil 1](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/KlassenTeil1.ipynb) |
 | 08 | ... |
 | 09 | ... |
 | 10 | ... |

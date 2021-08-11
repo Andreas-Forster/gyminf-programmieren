@@ -10,7 +10,7 @@ Andreas Morel-Forster <br/>
 | 09. August | [Einführung](block1/index.md) |
 | 10. August | [Einfache Programme](block2/index.md) |
 | 11. August | [Schleifen](block3/index.md) |
-| 12. August | Methoden |
+| 12. August | [Methoden](block4/index.md) |
 | 13. August | Arrays und Strings |
 | 14. August | Fallstudie und Übungen |
 | 28. August | Klassen und Objektorientierung |
