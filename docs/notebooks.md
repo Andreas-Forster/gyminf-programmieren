@@ -9,8 +9,8 @@
 | 05 | [Schleifen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Schleifen.ipynb) |
 | 06 | [Methoden](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Methoden.ipynb) |
 | 07 | [Klassen - Teil 1](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/KlassenTeil1.ipynb) |
-| 08 | ... |
-| 09 | ... |
+| 08 | [Arrays](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Arrays.ipynb) |
+| 09 | [Zeichenketten](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Strings.ipynb) |
 | 10 | ... |
 | 11 | ... |
 |  R | [Turtle Referenz](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Turtle-Referenz.ipynb) |

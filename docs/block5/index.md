@@ -1,17 +1,11 @@
-# Block 3: Zusammengesetzte Datentypen
-
-
-> **HINWEIS**<br>
-> DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
-
+# Block 5: Zusammengesetzte Datentypen
 
 ### Vorlesungsmaterialien
 
-* Einführung ([pdf](einfuehrung-woche3.pdf))
-* Arrays ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Arrays.ipynb))
-* Zeichenketten ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Strings.ipynb))
-* Turtle - Sprache ([pdf](turtle-language.pdf))
+* Klassen - Teil 1 ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/KlassenTeil1.ipynb),[direkter Link](https://raw.githubusercontent.com/Andreas-Forster/gyminf-programmieren/master/notebooks/KlassenTeil1.ipynb))
+* Arrays ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Arrays.ipynb))
+* Zeichenketten ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Strings.ipynb))
 
 ### Übungen
-[Hier](uebungen3.md) gehts zum Übungsblatt 3.
+Alle Übungen sind in den Notebooks enthalten.
 
