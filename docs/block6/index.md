@@ -3,6 +3,7 @@
 ### Vorlesungsmaterialien
 
 * Fortsetzung: Zeichenketten ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Strings.ipynb))
+* Regel 30 ([PDF](Rule30.pdf))
 
 ## Übungen
 
