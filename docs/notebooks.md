@@ -1,5 +1,7 @@
 ## Jupyter Notebooks
 
+Die bearbeiteten Versionen der Jupyter Notebooks finden Sie [hier](notebooks-bearbeitet.md).
+
 | Nr. | Inhalt |
 | --- | ------ |
 | 01 | [Jupyter Einführung](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb) |

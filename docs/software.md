@@ -2,6 +2,10 @@
 
 Wir verwenden verschieden Software für unterschiedliche praktische Teile der Vorlesung.
 
+### Kommandozeile, Konsole, Bash, Shell
+
+Je nach System hat das entsprechende Programm einen etwas anderen Namen. Es ist eigentlich immer schon installiert. Die Verwendung wird [hier](installation/kommandozeile.md) beschrieben.
+
 ### JDK - Java Development Kit
 
 Um Java Entwickeln zu können benötigen wir das Java Development Kit, oder kurz JDK. Zum laufen lassen von Java Programmen würde das Java Runtime Environment, kurz JRE, reichen. Dies ist im JDK schon enthalten und muss nicht noch separat installiert werden.

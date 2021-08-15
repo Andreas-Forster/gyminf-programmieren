@@ -8,3 +8,4 @@ Wer noch mehr Übungsmaterial möchte, findet viele Aufgaben, mit Musterlösung,
 > Die im Buch verwendeten Klassen *In* und *Out* für Input und Output werden auf der [Webseite](https://ssw.jku.at/Misc/JavaBuch/) des Buches zur Verfügung gestellt. Diese sind NICHT Teil der normalen Java-Installation.
 
 * [Empfohlene Aufgaben](recommended-exercises) aus Sprechen Sie Java
+* [Kahoot Fragen](kahoot/kahoot.md)
