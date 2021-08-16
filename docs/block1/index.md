@@ -2,7 +2,7 @@
 
 ### Vorlesungsmaterialien
 
-* Einige Grundlagen der Informatik ([pdf](02_InformatikGrundlagen.pdf))
+* Einige Grundlagen der Informatik ([pdf](02_InformatikGrundlagen.pdf), [Bild-1](dec2bin.png), [Bild-2](bin2dec.png))
 * Ein erstes Java-Programm ([pdf](03_ErstesProgramm.pdf))
 * Übungsblock 1  (weiter unten auf dieser Seite)
 * Jupyter Notebooks ([pdf](04_JupyterNotebooks.pdf))
