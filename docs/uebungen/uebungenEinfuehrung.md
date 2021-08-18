@@ -87,3 +87,13 @@ java -cp .:jturtle-0.5.jar Squares
 ## Automatisiertes Testen der Übungen (optional)
 
 Sie können diese Aufgaben wie schon besprochen manuell mit _javac_ und _java_ kompilieren und ausführen. Wir stellen Ihnen aber eine Test-Suite zur Verfügung, mit denen Sie Ihre Lösung bis zu einem gewissen grad selbständig überprüfen können. Falls Sie das automatisiert testen möchten, lesen Sie bitte die [Kurzanleitung](kurzanleitung-gradle.md)
+
+> HINWEIS (Aufgabe Quadrate)<br>
+> Es kann durchaus sein, dass wegen numerischer Ungenauigkeit Sie das gleiche Bild erhalten, jedoch der Test fehlschlägt. Vertrauen Sie sich als Mensch, und sehen Sie die Aufgabe als gelösst an, wenn die Bilder nicht mehr von Auge unterscheidbar sind.
+
+## Lösungen
+
+Bitte bearbeiten Sie die Aufgaben ausführlich bevor Sie die Lösungen anschauen um möglichst effizient zu üben. Die Lösungen sind nicht der einzige oder beste Weg die Übungen zu Lösen, sondern eine mögliche Lösung. Sie finden Gedanken zur Lösung als Kommentare in den Programmen.
+
+- [Lösung BMI](https://raw.githubusercontent.com/Andreas-Forster/gyminf-programmieren/master/docs/uebungen/solutionEinfuehrung/BMI.java)
+- [Lösung Quadrate](https://raw.githubusercontent.com/Andreas-Forster/gyminf-programmieren/master/docs/uebungen/solutionEinfuehrung/Squares.java)
