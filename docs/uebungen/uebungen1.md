@@ -77,7 +77,7 @@ berechnet mit der Formel den Wert $x_2$, indem $x_n = x_1$ und $x_{n+1} = x_2$ g
 
 Das Ergebnis wird dann immer wieder (iterativ) in die Formel hineingesteckt. Die Formel ist so konstruiert, dass die Lösung immer dichter an der Kubikwurzel von $a$ liegt, als der Eingabewert.
 
-Schreiben Sie ein Java-Programm _CubicRoot_, das die Kubikwurzel der Eingabe berechnet und auf die Konsole ausgibt. Dabei gilt ein Iterationswert als gut genug, falls er von dem nachfolgendem Iterationswert nicht um mehr als $1e−8$ abweicht. 
+Schreiben Sie ein Java-Programm `CubicRoot`, das die Kubikwurzel der Eingabe berechnet und auf die Konsole ausgibt. Dabei gilt ein Iterationswert als gut genug, falls er von dem nachfolgenden Iterationswert nicht um mehr als $1e−8$ abweicht. Schreiben Sie Ihre Lösung in die bereits vorbereitete Datei `CubicRoot.java`, die Sie im Verzeichnis `uebungen1/src/main/java` finden.
 
 >Hinweise<br>
 >* Deklarieren Sie die Variablen als Typ `double`.
@@ -85,8 +85,6 @@ Schreiben Sie ein Java-Programm _CubicRoot_, das die Kubikwurzel der Eingabe ber
 >* Starten Sie mit dem Iterationswert `1`.
 >* Nutzen Sie zur Berechnung des Absolutbetrags einer Zahl `x` die Funktion `Math.abs(x)`.
 
-Schreiben Sie Ihre Lösung in die bereits vorbereitete Datei `CubicRoot.java`, die Sie
-im Verzeichnis `uebungen1/src/main/java` finden.
 
 >Anmerkung für Interessierte<br>
 >Die obige Formel ergibt sich aus dem Iterationsverfahren
@@ -115,7 +113,7 @@ müssen Sie die fehlenden Methoden in der Java Datei `NumberConversions.java` im
 ### a) Umwandlung einer Dezimalzahl in eine Hexadezimalzahl
 
 Unsere gewohnten Zahlen sind die Dezimalzahlen. Das sind Zahlen zur Basis zehn
-mit den Ziffern 0 bis 9. Jede Stelle $i$ hat die Wertigkeit $10^{i−1}$. Die Hexadezimalzahlen sind Zahlen zur Basis 16. Sie bestehen aus den Ziern 0 bis 9 und den Buchstaben A, B, C, D, E und F für die Dezimalwerte 10, 11, 12, 13, 14 und 15. Jede Stelle $i$ hat
+mit den Ziffern 0 bis 9. Jede Stelle $i$ hat die Wertigkeit $10^{i−1}$. Die Hexadezimalzahlen sind Zahlen zur Basis 16. Sie bestehen aus den Ziffern 0 bis 9 und den Buchstaben A, B, C, D, E und F für die Dezimalwerte 10, 11, 12, 13, 14 und 15. Jede Stelle $i$ hat
 die Wertigkeit $16^{i−1}$. Um Hexadezimalzahlen von Dezimalzahlen zu unterscheiden, notieren wir sie mit dem Präfix '0x'.
 Beispiel:
 
