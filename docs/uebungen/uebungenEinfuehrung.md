@@ -67,14 +67,14 @@ javac -cp .:jturtle-0.6.jar Squares.java
 Entsprechend ist das Kommando zum Aufruf nun
 * für Windows
 ```bash
-java -cp ".;jturtle-0.5.jar" Squares
+java -cp ".;jturtle-0.6.jar" Squares
 ```
 * für Linux und MacOS
 ```bash
-java -cp .:jturtle-0.5.jar Squares
+java -cp .:jturtle-0.6.jar Squares
 ```
 
-> Um das Programm aufzurufen, geben Sie als Kommandozeilenargument den Dateinamen für das resultierende Bild an (mit Endung .png) (also z.B. `java -cp .;jturtle-0.5.jar Squares squares.png`).
+> Um das Programm aufzurufen, geben Sie als Kommandozeilenargument den Dateinamen für das resultierende Bild an (mit Endung .png) (also z.B. `java -cp .:jturtle-0.6.jar Squares squares.png`).
 
 Überprüfen Sie Ihre Ausgabe. Wenn Sie die Aufgabe noch nicht gelösst haben, dann bekommen Sie ein komplett weisses Bild. Haben Sie die Aufgabe richtig und vollständig gelösst, sieht das Bild wie folgt aus:
 
