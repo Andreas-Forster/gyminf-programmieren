@@ -19,8 +19,8 @@ public class NumberConversionsTests {
     public void testDec2HexOneDigit() {
        assertEquals("0x0", NumberConversions.decToHex(0).toLowerCase());
        assertEquals("0x7", NumberConversions.decToHex(7).toLowerCase());
-       assertEquals( "0xA", NumberConversions.decToHex(10).toLowerCase());
-       assertEquals( "0xF", NumberConversions.decToHex(15).toLowerCase());
+       assertEquals( "0xa", NumberConversions.decToHex(10).toLowerCase());
+       assertEquals( "0xf", NumberConversions.decToHex(15).toLowerCase());
     }
 
 
@@ -29,12 +29,9 @@ public class NumberConversionsTests {
     @Tag(name = "difficulty", value = "simple")
     @Tag(name = "function", value = "dec2HexMultipleDigits")
     public void testDec2HexMultipleDigits() {
-
-        assertEquals("0x6B", NumberConversions.decToHex(107).toLowerCase());
-        assertEquals("0xFE", NumberConversions.decToHex(254).toLowerCase());
-        assertEquals("0xFFFF", NumberConversions.decToHex(65535).toLowerCase());
-
-
+        assertEquals("0x6b", NumberConversions.decToHex(107).toLowerCase());
+        assertEquals("0xfe", NumberConversions.decToHex(254).toLowerCase());
+        assertEquals("0xffff", NumberConversions.decToHex(65535).toLowerCase());
     }
         
 
