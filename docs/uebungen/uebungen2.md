@@ -1,39 +1,47 @@
-{% include head.html %}
-# Übungen 4
+# Übungen 2
 
-### Tutoren
+## Forum
 
-[matthias.amberg@unibas.ch](mailto:matthias.amberg@unibas.ch)
-
-### Foren-Austausch
-
-Wir können uns für die Übungen auch mittels des offziellen [GymInf Moodle Forum](https://moodle.unifr.ch/mod/forum/view.php?id=673384) 
-austauschen. 
+Zum gegenseitigen Austausch und zur Übungsdiskussion können wir das Forum des Kurses im [GymInf Moodle](https://moodle.unifr.ch/mod/forum/view.php?id=924407) benutzen. Ziel ist es, einen Thread / ein Thema pro Aufgabe zu haben und dort drin alle Fragen und Antworten zur Aufgabe zu sammeln. Sie können gerne auch bei Fragen zur Software, Installation oder dem Umgang mit VS Code Threads im Forum starten.
 
 ### Übungs-Hilfsdateien
 
-Bitte verwenden Sie die Vorlagen im [Zipfile zu den Übungen](https://github.com/unibas-marcelluethi/gyminf-programmieren/raw/master/docs/block4/uebung4.zip)
+Bitte verwenden Sie die Vorlage für diese Übung:
+
+1. Laden Sie die Vorlagen als [Zipfile](https://github.com/andreas-forster/gyminf-programmieren/raw/master/docs/uebungen/uebungen2.zip) herunter.
+2. Entpacken Sie die Zip-Datei anschliessend.
+3. Öffnen Sie den entpackten Ordner `uebungen2` in Visual Studio Code.
+4. Bearbeiten Sie die Übungen.
 
 ### Allgemeine Hinweise
 
-* Wir empfehlen Ihnen, dass Sie im Buch "Sprechen Sie Java" bis und mit Kapitel 9 lesen.
-* Wechseln Sie in den Ordner _src/main/java_. Dort finden Sie die Dateien, in welche Sie ihren Java Code schreiben.
-* Schreiben Sie ihr Programm, kompilieren Sie dieses mit dem Java Compiler javac und führen Sie es mit java aus, wie es in der Vorlesung gezeigt wurde.
-* Wenn Sie denken, dass alles in Ordnung ist, wechseln Sie zurück ins Übungsverzeichnis _uebung3_ und führen da _gradlew test_ aus um zu überprüfen ob Ihre Lösung die automatisierten Tests besteht. Überprüfen Sie auch Ihren Codestil mit _gradlew checkstyleMain_.
+* Es sind bei dieser Übung mehr Aufgaben als Sie wahrscheinlich in sinnvoller Zeit bearbeiten können. Wir haben die Übungen mit einem `*` markiert, welche wir empfehlen bis zum nächsten Kurstag zu lösen. Dies kann durchaus `8-10 Stunden` in Anspruch nehmen.
+* Wir empfehlen Ihnen, dass Sie im Buch ***Sprechen Sie Java*** bis und mit ***Kapitel 11*** lesen.
+* Wechseln Sie in den Ordner `src/main/java`. Dort finden Sie die Dateien, in welche Sie ihren Java Code schreiben.
+* Schreiben Sie ihr Programm, kompilieren Sie dieses mit dem Java Compiler `javac` und führen Sie es mit `java` aus, wie es in der Vorlesung gezeigt wurde.
+* Wenn Sie denken, dass alles in Ordnung ist, wechseln Sie zurück ins Übungsverzeichnis `uebungen2`. Dort können Sie dann eine automatisierte Test-Suite verwenden um Ihre Lösung bis zu einem gewissen grad selbständig zu überprüfen. Falls Sie das automatisierte Testen verwenden möchten, lesen Sie bitte die [Kurzanleitung](kurzanleitung-gradle.md)
+> :warning: In dieser Aufgabe werden nicht alle Aufgaben durch automatisierte Tests überpüft. Zum Testen der Aufgaben, die Grafiken produzieren, schauen Sie ob die Grafiken den Vorgaben entsprechen.
 
-## Hinweis zum Aufbau dieses Übungsblattes
+## Inhalt
  
-In dieser Aufgabe entwickeln wir unser eigenes Programm um Histogrammplots zu erstellen
-(Beispiele solcher Plots finden Sie am Ende dieses Übungsblatts). Dabei lernen Sie, wie Sie mit
-Klassen und Objekten arbeiten und wie Sie komplexe Funktionalität aus einfachen Teilen
-zusammensetzen können. In den ersten Teilaufgaben entwickeln Sie die einzelnen Teile. In der
-letzten Aufgabe werden Sie diese dann zusammensetzen.
+In dieser Aufgabe entwickeln wir unser eigenen grösseren Programme, einmal um Histogrammplots zu erstellen und um Fraktale zu berechnen und darzustellen. Dabei lernen Sie, wie Sie mit Klassen und Objekten arbeiten und wie Sie komplexe Funktionalität aus einfachen Teilen zusammensetzen können.
 
-> :warning: In dieser Aufgabe können nicht alle Aufgaben durch automatisierte Tests überpüft
-werden. Zum Testen der Aufgaben, die Grafiken produzieren, schauen Sie ob die Grafiken den
-Vorgaben entsprechen.
+#### Histogram
+1. [*Der Punkt](#der-punkt)
+1. [*Grafische Elemente](#grafische-elemente)
+1. [*Histogram](#histogram)
+1. [*Plotten Des Histogramms](#plotten-des-histograms)
+1. [Farbige Grafiken](#farbige-grafiken)
 
-## Aufgabe 1 - Punkt
+#### Mandelbrot (Fraktal)
+6. [*Komplexe Zahlen](#komplexe-zahlen)
+1. [Mandelbrotmenge](#mandelbrotmenge)
+1. [Visualisierung der Mandelbrotmenge](#visualisierung-der-mandelbrotmenge)
+1. [*Color Klasse](#color-klasse)
+1. [Bonus zur Mandelbrotvisualisierung](#bonus-zur-mandelbrotvisualisierung)
+
+
+## Der Punkt
 
 Im Verzeichnis _src/main/java/_ finden Sie die Klasse Point, welche einen Punkt im
 Raum durch die Raumkoordinaten (x, y) repräsentiert. Implementiere Sie die fehlenden
@@ -43,7 +51,7 @@ Teile dieser Klasse.
 Mit _gradlew test --tests PointTests_ können Sie nur die Tests für diese Klasse
 ausführen.
 
-## Aufgabe 2 - Grafische Elemente
+## Grafische Elemente
 
 Im Verzeichnis _src/main/java_ finden Sie die Klassen Rectangle und PlotAxes.
 Diese sollen es erlauben, durch das Angeben eines Referenzpunktes sowie der Länge und
@@ -64,7 +72,7 @@ Rechteck
 ![Rechteck](./images-uebung/hist-rectangle.png){:width="50%"}
 
 
-## Aufgabe 3 - Histogram
+## Histogram
 
 Im Verzeichnis _src/main/java/_ finden Sie die Klasse Histogram. Der Zweck dieser Klasse ist es, ein Array von Werten entgegenzunehmen und zu zählen, wie viele der
 Werte in Klassen (genannt Bins) fallen. Die Klassen werden durch Intervalle fester Länge
@@ -76,7 +84,7 @@ und _getMaxValue_, da Sie diese in den anderen Methoden brauchen werden. Die Kom
 >:point_up: Schreiben Sie eigene kleine Testprogramme in der Main-methode um Ihre Implementation zu testen. Wenn alles funktioniert nutzen Sie auch die mitgelieferten Tests.
 
 
-## Aufgabe 4 - Plotten des Histogram
+## Plotten des Histograms
 
 Schlussendlich implementieren Sie die fehlenden Methoden in der Klasse _HistogramPlot_.
 Diese Klasse soll die Klassen Histogram, Rectangle und PlotAxes nutzen, um für
@@ -93,12 +101,12 @@ Komplexter Testfall
 ![](./images-uebung/histogram-complex.png)
 
 
-## Freiwillig: Aufgabe 4a - Farbige Grafiken
+## Farbige Grafiken
 
 Diese Aufgabe ist freiwillig. Können Sie das Programm so anpassen, dass die Balken der
 Histogramme farbig gezeichnet werden? Nutzen Sie dazu die Methode _fill_ von Turtle.
 
-## Aufgabe 5 - Komplexe Zahlen
+## Komplexe Zahlen
 
 Eine komplexe Zahl ist eine Zahl $a + bi$ mit folgenden Rechenregeln:
 
@@ -106,7 +114,7 @@ Addition: $(a + bi) + (c + di) = (a + c) + (b + d)i$
 
 Multiplikation: $(a + bi)(c + di) = (ac − bd) + (ad + bc)i$
 
-Betrag: $&#x7c;(a + bi)&#x7c; = \sqrt{a^2 + b^2}$
+Betrag: $|(a + bi)| = \sqrt{a^2 + b^2}$
 
 Im Verzeichnis _src/main/java_ finden Sie die Klasse _Complex_. Implementieren Sie die
 fehlenden Methoden.
@@ -115,9 +123,7 @@ Beachten Sie, dass Sie die Operationen Addition und Multiplikation jeweils in zw
 Objekt zurückgegeben werden. In der zweiten Variante wird das aktuelle Objekt verändert.
 Testen Sie Ihre Klasse mit den mitgelieferten Tests.
 
-# Freiwilliger Teil:
-
-## Aufgabe 6 - Mandelbrotmenge
+## Mandelbrotmenge
 
 In dieser Aufgabe schreiben Sie ein Programm, dass die
 Mandelbrotmenge darstellt. Die Mandelbrotmenge ist definiert, als die Teilmenge
@@ -143,7 +149,7 @@ Sie die Methode _computeMandelbrot_, welche für eine gegebene Zahl die Mandelbr
 Folge berechnet und ein Resultatobjekt zurückgibt, welches die Resultate der Berechnung
 enthält. Testen Sie Ihr Programm mit den mitgelieferten Tests.
 
-## Aufgabe 7 - Visualisierung der Mandelbrotmenge
+## Visualisierung der Mandelbrotmenge
 
 In dieser Aufgabe visualisieren Sie die Mandelbrotmenge. Dafür implementieren Sie die
 Methode _createMandelbrotVisualization_. Dafür laufen Sie über die Pixel eines
@@ -156,7 +162,7 @@ Parametern ausführen, sollten Sie etwa folgendes Bild erhalten
 
 ![](images-uebung/mandelbrot.png)
 
-## Aufgabe 8 - Color Klasse
+## Color Klasse
 
 Implementieren Sie die Methode _ColorPalette.colorToGreyscale_. Diese soll eine Farbe, wie die von _ColorPalette.getColor_ zurückgegeben wird, in Graustufen
 umwandeln. Dies schaffen Sie, indem die R G B Komponente der Farbe jeweils durch das
@@ -166,8 +172,24 @@ Lesen Sie die Dokumentation der Klasse Color um die richtigen Methoden der Klass
 
 Testen Sie Ihre Implementation mit den mitgelieferten Tests.
 
-Visualisieren Sie nun die Mandelbrotmenge auch als Graustufenbild.
+## Bonus zur Mandelbrotvisualisierung
 
-## Automatisiertes Testen der Übungen / Infos zu 'gradlew'
+* Visualisieren Sie nun die Mandelbrotmenge auch als Graustufenbild mit Hilfe der letzten Aufgabe.
+* Wenn Sie die Mandelbrotvisualisierung gelösst haben, können Sie eine ganz einfache Animation hinbekommen. Fügen Sie dazu den folgenden Code in der main-Methode der Visualisierung ein, rufen Sie die main-Methode auf und lassen Sie sich in VS Code das Bild anzeigen. Das Bild sollte dann automatisch neu geladen werden.
+```java
+for ( double d = 0.004; d > 1e-10; d *= 0.9){
+    mb.createMandelbrotVisualization(
+        d,
+        -0.604894,
+        -0.614894,
+        100
+    );
+    mb.save("mandelbrot.png");
+    try {
+        Thread.sleep(100);
+    } catch (Exception e) {
+        System.out.println(e.getMessage());
+    }
+}
 
-Sie können diese Aufgaben wie schon besprochen manuell mit _javac_ und _java_ kompilieren und ausführen. Wir stellen Ihnen aber eine Test-Suite zur Verfügung, mit denen Sie Ihre Lösung bis zu einem gewissen grad selbständig überprüfen können. Falls Sie das automatisiert testen möchten, lesen Sie bitte die [Kurzanleitung](../block1/kurzanleitung-gradle.md)
+```

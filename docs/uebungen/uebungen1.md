@@ -11,7 +11,7 @@ Bitte verwenden Sie die Vorlage für diese Übung:
 
 1. Laden Sie die Vorlagen als [Zipfile](https://github.com/andreas-forster/gyminf-programmieren/raw/master/docs/uebungen/uebungen1.zip) herunter.
 2. Entpacken Sie die Zip-Datei anschliessend.
-3. Öffnen Sie den entpackten Ordner in Visual Studio Code.
+3. Öffnen Sie den entpackten Ordner `uebungen1` in Visual Studio Code.
 4. Bearbeiten Sie die Übungen.
 
 

@@ -13,7 +13,7 @@ Andreas Morel-Forster <br/>
 | 12. August | [Methoden](block4/index.md) |
 | 13. August | [Arrays und Strings](block5/index.md) |
 | 14. August | [Übungen & Fallstudie](block6/index.md) |
-| 28. August | Klassen und Objektorientierung |
+| 28. August | [Klassen und Objektorientierung](block7/index.md) |
 | 11. September | Vererbung |
 | 25. September | Fehlerbehandlung |
 
