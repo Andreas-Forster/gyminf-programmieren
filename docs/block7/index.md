@@ -9,5 +9,5 @@
 
 ### Übungen
 
-[Hier](uebungen2.md) gehts zum Übungsblatt 2.
+[Hier](../uebungen/uebungen2.md) gehts zum Übungsblatt 2.
 
