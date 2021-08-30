@@ -1,3 +1,4 @@
+{% include head.html %}
 # Übungen 2
 
 ## Forum
@@ -118,9 +119,9 @@ Für das Rechnen mit komplexen Zahlen gelten folgenden Rechenregeln:
 
 Addition: $(a + bi) + (c + di) = (a + c) + (b + d)i$
 
-Multiplikation: $(a + bi)(c + di) = (ac − bd) + (ad + bc)i$
+Multiplikation: $(a + bi)(c + di) = (ac + bd) + (ad + bc)i$
 
-Betrag: $|(a + bi)| = \sqrt{a^2 + b^2}$
+Betrag: $\vert(a + bi)\vert = \sqrt{a^2 + b^2}$
 
 Im Verzeichnis `src/main/java` finden Sie die Klasse `Complex`. Implementieren Sie die
 fehlenden Methoden.
@@ -167,7 +168,7 @@ Wenn Sie das Programm kompilieren und mit den in der Main-Methode angegebenen Pa
 
 Implementieren Sie die Methode `ColorPalette.colorToGreyscale`. Diese soll eine Farbe, wie die von `ColorPalette.getColor` zurückgegeben wird, in Graustufen
 umwandeln. Dies schaffen Sie, indem die R G B Komponente der Farbe jeweils durch das
-gewichtete Mittel $R ∗ 0.2989 + G ∗ 0.5870 + B ∗ 0.1140$ ersetzen.
+gewichtete Mittel $R * 0.2989 + G * 0.5870 + B * 0.1140$ ersetzen.
 
 Lesen Sie die Dokumentation der Klasse Color um die richtigen Methoden der Klasse Color zu finden: <https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/java/awt/Color.html>.
 
