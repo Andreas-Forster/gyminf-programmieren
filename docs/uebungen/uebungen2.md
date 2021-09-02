@@ -119,7 +119,7 @@ Für das Rechnen mit komplexen Zahlen gelten folgenden Rechenregeln:
 
 Addition: $(a + bi) + (c + di) = (a + c) + (b + d)i$
 
-Multiplikation: $(a + bi)(c + di) = (ac + bd) + (ad + bc)i$
+Multiplikation: $(a + bi)(c + di) = (ac - bd) + (ad + bc)i$
 
 Betrag: $\vert(a + bi)\vert = \sqrt{a^2 + b^2}$
 
