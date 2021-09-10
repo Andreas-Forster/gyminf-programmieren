@@ -13,6 +13,8 @@ Die bearbeiteten Versionen der Jupyter Notebooks finden Sie [hier](notebooks-bea
 | 07 | [Klassen - Teil 1](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/KlassenTeil1.ipynb) |
 | 08 | [Arrays](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Arrays.ipynb) |
 | 09 | [Zeichenketten](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Strings.ipynb) |
-| 10 | ... |
-| 11 | ... |
+| 10 | [Klassen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Klassen.ipynb) |
+| 11 | [Objektorientierung](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Objektorientierung.ipynb) |
+| 12 | [Vererbung](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb) |
+| 13 | ... |
 |  R | [Turtle Referenz](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Turtle-Referenz.ipynb) |

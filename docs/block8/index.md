@@ -1,15 +1,14 @@
-# Block 8: Vererbung / Grafische Benutzeroberflächen
+# Block 8: Vererbung
 
-
-> **HINWEIS**<br>
-> DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
 
 ### Vorlesungsmaterialien
 
-* Einführung ([pdf](einfuehrung.pdf))
-* Vererbung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb))  [(github)](https://github.com/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb)
-* AWT/Swing ([pdf](awt-swing.pdf))
+* Einführung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Block8-Einfuehrung.ipynb))
+* Vererbung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb))
+
 
 ### Übungen
-[Hier](uebungen5.md) gehts zum Übungsblatt 5.
+
+[Hier](../uebungen/uebungen3.md) gehts zum Übungsblatt 3.
+
 
