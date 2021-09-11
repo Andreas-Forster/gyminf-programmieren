@@ -159,7 +159,7 @@ Sie finden im Verzeichnis `src/main/java` die Datei `BubbleSort.java`. Implement
 ## Java-Stil
 Sie finden im Verzeichnis `src/main/java` die Datei `StyleMess.java`.
 
-Passen Sie die Klasse so an, dass wenn Sie im Hauptverzeichnis `uebungen1` den Befehl `gradlew checkstyleStyleMess` aufrufen,
+Passen Sie die Klasse so an, dass wenn Sie im Hauptverzeichnis `uebungen1` den Befehl `gradlew checkstyleMain` aufrufen,
 keine Fehler mehr ausgegeben werden. Sie müssen dafür die Namen von Klassen, Methoden
 und Variablen ändern, die Formatierung anpassen, Klammern einfügen, etc. Sie dürfen
 keinen Code löschen (d.h. alle Konstrukte müssen im Code noch zu finden sein).
