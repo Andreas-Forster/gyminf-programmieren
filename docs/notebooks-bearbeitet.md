@@ -11,6 +11,8 @@
 | 07 | [Klassen - Teil 1](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/bearbeitet/notebooks/KlassenTeil1.ipynb) |
 | 08 | [Arrays](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/bearbeitet/notebooks/Arrays.ipynb) |
 | 09 | [Zeichenketten](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/bearbeitet/notebooks/Strings.ipynb) |
-| 10 | ... |
-| 11 | ... |
+| 10 | [Klassen](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/bearbeitet/notebooks/Klassen.ipynb) |
+| 11 | [Objektorientierung](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/bearbeitet/notebooks/Objektorientierung.ipynb) |
+| 12 | [Vererbung](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/bearbeitet/notebooks/Vererbung.ipynb) |
+| 13 | ... |
 |  R | [Turtle Referenz](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/bearbeitet/notebooks/Turtle-Referenz.ipynb) |
