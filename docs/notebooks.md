@@ -1,6 +1,10 @@
 ## Jupyter Notebooks
 
+### Bearbeitete Notebooks
+
 Die bearbeiteten Versionen der Jupyter Notebooks finden Sie [hier](notebooks-bearbeitet.md).
+
+### Unbearbeitete Notebooks
 
 | Nr. | Inhalt |
 | --- | ------ |
