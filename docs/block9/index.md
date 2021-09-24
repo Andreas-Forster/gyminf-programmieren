@@ -1,16 +1,9 @@
-# Block 9: Fehlerbehandlung, IO und Threads
-
-
-> **HINWEIS**<br>
-> DIE NACHFOLGENDEN INFORMATIONEN SIND NOCH NICHT AKTUALISIERT
-
+# Block 9: Dynamische Datenstrukturen
 
 ### Vorlesungsmaterialien
 
 * Einführung ([pdf](Einfuehrung.pdf))
-* Exceptions ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Exceptions.ipynb)) 
-* IO und Threads ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/IOandThreads.ipynb)) 
-* Turtle Fallstudie ([pdf](Turtle.pdf)) 
+* Nachbesprechung: Vererbung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/Andreas-Forster/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb))([raw](https://raw.githubusercontent.com/Andreas-Forster/gyminf-programmieren/master/notebooks/Vererbung.ipynb))
 
 ### Übungen
-* Empfohlene Liste von Übungen in Sprechen Sie Java folgt.
+* Empfohlene Liste von Übungen in Sprechen Sie Java finden Sie [hier](../recommended-exercises.md).

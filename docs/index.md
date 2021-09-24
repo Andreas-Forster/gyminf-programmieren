@@ -15,7 +15,7 @@ Andreas Morel-Forster <br/>
 | 14. August | [Übungen & Fallstudie](block6/index.md) |
 | 28. August | [Klassen und Objektorientierung](block7/index.md) |
 | 11. September | [Vererbung](block8/index.md) |
-| 25. September | Dynamische Datenstrukturen |
+| 25. September | [Dynamische Datenstrukturen](block9/index.md) |
 
 
 Die Vorlesungsmaterialien für die jeweilige Einheiten werden fortlaufend online gestellt. Sie finden diese wenn Sie auf den entsprechenden Link im Programm klicken.
